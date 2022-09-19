@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617189726 source:c:\programmation\mon_projet\decalagebinaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
